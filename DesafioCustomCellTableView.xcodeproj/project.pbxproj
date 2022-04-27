@@ -16,6 +16,7 @@
 		6DF825D92818D231001B0157 /* DesafioCustomCellTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DF825D82818D231001B0157 /* DesafioCustomCellTableViewTests.swift */; };
 		6DF825E32818D231001B0157 /* DesafioCustomCellTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DF825E22818D231001B0157 /* DesafioCustomCellTableViewUITests.swift */; };
 		6DF825E52818D231001B0157 /* DesafioCustomCellTableViewUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DF825E42818D231001B0157 /* DesafioCustomCellTableViewUITestsLaunchTests.swift */; };
+		6DF825F22818D9DB001B0157 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DF825F12818D9DB001B0157 /* CustomTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6DF825DE2818D231001B0157 /* DesafioCustomCellTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DesafioCustomCellTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DF825E22818D231001B0157 /* DesafioCustomCellTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesafioCustomCellTableViewUITests.swift; sourceTree = "<group>"; };
 		6DF825E42818D231001B0157 /* DesafioCustomCellTableViewUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesafioCustomCellTableViewUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6DF825F12818D9DB001B0157 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				6DF825CA2818D231001B0157 /* Assets.xcassets */,
 				6DF825CC2818D231001B0157 /* LaunchScreen.storyboard */,
 				6DF825CF2818D231001B0157 /* Info.plist */,
+				6DF825F12818D9DB001B0157 /* CustomTableViewCell.swift */,
 			);
 			path = DesafioCustomCellTableView;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				6DF825C62818D22E001B0157 /* ViewController.swift in Sources */,
 				6DF825C22818D22E001B0157 /* AppDelegate.swift in Sources */,
+				6DF825F22818D9DB001B0157 /* CustomTableViewCell.swift in Sources */,
 				6DF825C42818D22E001B0157 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
